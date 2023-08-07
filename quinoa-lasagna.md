@@ -1,21 +1,26 @@
 # Quinoa Lasagna
 
-## Toast Quinoa
-✅ olive oil  
-✅ 250g quinoa  
-
 ## Boil Quinoa
-🌡️ ?? water  
-✅ 1 vegetable pot  
+*Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
+
+🌡️ 1L water  
+✅ 1 28g vegetable pot  
+✅ 300g quinoa  
+✅ some of the tomato sauce
 
 ## Sautee
-*Remove the beef from the pan before adding the onion.*
+*Remove the meat from the pan before adding the onion.*
 
+🔪 400g italian pork sausage  
 ✅ olive oil  
 ✅ few pinches of salt  
-✅ 500g 12% fat beef mince  
-🔪 1 med diced onion  
-✅ 1 cube (4 cloves) frozen crushed garlic
+🔪 3 med diced red onion  
+✅ 2 cube (8 cloves) frozen crushed garlic
+
+## Add Sauce and Quinoa
+*Re-add anything that was sauteed back to the pan. Add quinoa*
+
+✅ 2 500g jars tomato and herb bolognese sauce  
 
 ## Combine
 ✅ 500g ricotta cheese  
@@ -25,12 +30,15 @@
 🌡️ 1 teaspoon pepper
 
 ## Layer
-*Put some cheese on top*
+*Quinoa mix on bottom. Then ricotta mix. Then mozzerella*
 
-✅ 1 kg (2x500g) jars tomato and herb bolognese sauce  
 ✅ 250g bag grated mozzarella  
-✅ 100g sliced black olives
 
 ## Bake
-⏱️ 20-30 minutes with lid on (unitl everything is hot)
-⏱️ 15 minutes to solidify cheese.
+⏱️ 20 minutes until cheese is browning.
+
+## Output
+3 Liters
+
+## Next Time
+slightly more meat, 1kg ricotta
