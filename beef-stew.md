@@ -8,12 +8,14 @@
 ✅ 500g diced beef  
 ✅ a bit more oil  
 🔪 150g yellow onion , minced  
-🔪 250g carrots, diced  
+🔪 200g carrots, diced  
 🔪 250g celery, diced  
-✅ 1 cube (4 cloves) frozen crushed garlic  
+✅ 2 cube frozen crushed garlic  
 
 ## Simmer
 *Wait until the beef is mostly done (around 45-60 minutes remain).*
+
+140 degrees
 
 🌡️ 500ml water  
 ✅ 1 pot vegetable broth  
@@ -22,8 +24,9 @@
 ✅ pepper to taste  
 
 ## Add
-🔪 500g diced potatoes   
+ 
 🔪 250g yellow onion , minced  
-🔪 250g carrots, diced  
+🔪 200g carrots, diced 
+🔪 500g diced potatoes  
 
 ## Next Time
