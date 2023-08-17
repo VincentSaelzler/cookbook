@@ -5,7 +5,7 @@ Hearty and cheesy.
 ✅ 4 tablespoons butter  
 ✅ few dashes of salt  
 🔪 1.5 medium yellow onion , minced  
-✅ 1/2 cube (2 cloves) frozen crushed garlic  
+✅ 1/2 cube (2 cloves) frozen crushed garlic  MORE
 
 ## Roux
 🌡️ 1/4 cup flour  
@@ -15,18 +15,18 @@ Hearty and cheesy.
 
 🌡️ 500ml half-and-half  
 ✅ 900g frozen chopped spinach (ideally thawed)  
++ the mushrooms!
 ✅ salt to taste  
 ✅ pepper to taste  
 ✅ dash nutmeg  
 
 ## Melt
-1 cup mozzarella cheese (DIDN'T DO)  
-✅ 200g cream cheese aka "soft cheese".  
+✅ 300g cream cheese aka "soft cheese".   (up from 200 last time)
 
 ## Stir
 🔪 1/2 cup Parmesan cheese , grated
+(80g shaved?)
 
 ## Next Time
-More garlic
-less half and half
-use the mozz?
+
+

@@ -28,6 +28,3 @@ Think Panera, but better.
 
 ## Output
 ➡️ 3 Liters
-
-## Next Time
-Do the same thing. It's already perfect.
