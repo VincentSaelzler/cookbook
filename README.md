@@ -7,6 +7,8 @@ Using the [Visual Studio Code Dev Containers Extension](https://code.visualstudi
 ![](/docs/dev-containers-arch.png)
 Port forwarding seems to happen automatically once the Jekyll web server is running.
 
+Do **not** try and put all the Jekyll-related stuff in a folder (e.g. `website`) because the markdown image links in the vscode markdown previewer become incompatible with ones that work out the output files in `_site`.
+
 # Deployment
 TBD, but most likely steps will be:
 1. Ensure that `_site` folder is saved in git repo as part of dev process. The has the con of duplicating all the source files, but makes the requirements of the production server easier.
