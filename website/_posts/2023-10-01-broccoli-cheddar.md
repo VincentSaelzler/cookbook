@@ -1,7 +1,13 @@
+---
+layout: post
+title:  "Broccoli Cheddar Soup"
+date:   2023-09-01
+categories: soup comfort
+---
 # Broccoli Cheddar
 Think Panera, but better.
 
-## Sautee
+## Sauté
 ✅ 4 tablespoons butter  
 🔪 110g streaky bacon  
 🔪 250g (1.5 Small) Diced Yellow Onion  
