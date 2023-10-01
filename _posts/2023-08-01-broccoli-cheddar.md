@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Broccoli Cheddar Soup"
-date:   2023-09-01
+#date:   2023-09-01
 categories: soup comfort
 ---
 # Broccoli Cheddar
