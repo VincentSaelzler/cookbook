@@ -23,7 +23,7 @@ OR....
 # this command only happens once.
 # it creates a boilerplate site in the /myblog directory
 # notably the Gemfile is created which itself contains good documentation
-jekyll new cookbook
+jekyll new website
 ```
 When creating new containers, run this command each time.
 ```sh
