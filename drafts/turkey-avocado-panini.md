@@ -3,7 +3,7 @@ https://www.allrecipes.com/recipe/201117/turkey-avocado-panini/
 
 ½ ripe avocado
 
-¼ cup mayonnaise
+¼ cup mayonnaise (no mayo)
 
 2 ciabatta rolls
 

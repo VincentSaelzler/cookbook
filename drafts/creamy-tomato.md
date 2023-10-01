@@ -12,7 +12,7 @@ Basil leaves 20g packet (stems removed and crappy leaves discarded)
 2 tsp salt
 2 tsp pepper
 250ml cup double cream (300?)
-Directions
+Directionsx``
 Sautee the onions in oil. Add garlic.
 Add remainder of ingredients, except cream.
 Blend with immersion blender.
@@ -21,5 +21,4 @@ Add cream.
 => GREAT!
 
 chiopped with basil/oregano 7x instead of 8
-
-red onion instead of yellow
+output - just under 3 liters
