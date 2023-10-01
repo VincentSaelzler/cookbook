@@ -24,8 +24,8 @@ Remove the pork, but keep the liquid fat. Turn the burner up to high.
 ![](/assets/images/eggs-tofu-bacon-d.jpg)
 
 ## Cook Eggs
-✅ 12 large eggs (700g)  
-🔪 500g egg whites  
+🔪 12 large eggs (700g)  
+✅ 500g egg whites  
 Remove the tofu, but keep any remaining liquid fat. It's okay if there isn't much left.
 ![](/assets/images/eggs-tofu-bacon-e.jpg)
 
