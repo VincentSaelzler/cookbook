@@ -37,3 +37,12 @@ Run this command to start the server. Do ctrl-c then rerun to see changes.
 ```sh
 bundle exec jekyll serve
 ```
+
+# Resizing Photos
+- Create a directory called `big-pics` if it doesn't already exist.
+- Place full size photos here
+- Run `python3 photo-shrink.py`
+
+This command is idempotent.
+
+The `big-pics` directory is ignored in source control via `.gitignore` and also ignored when Jekyll builds the site via `_config.yml`
