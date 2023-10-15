@@ -27,6 +27,6 @@ If the ribs become done, it's more important to avoid overcooking than to have t
 Overall good! I didn't add any liquid for the covered baking part, and also kept them in for the full time without really checking whether they were done.
 
 ## Next Time
-Refer to recipie and "then cover with the cider, and butter mixture."
+Refer to recipe and "then cover with the cider, and butter mixture."
 
 Watch for them to be done; don't dry them out by overcooking.
