@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Eggs with Tofu and Bacon"
+title:  "Eggs with Tofu and Pork Belly"
 categories: breakfast
 ---
 
@@ -35,4 +35,4 @@ Just over 2 Liters
 Keep|Change
 -|-
 Don't mix the uncooked liquid eggs with the pork or tofu. This kept those items crispy. The result is more of a breakfast bowl with separate ingredients as opposed to just mush.|Sauté some onions after doing the tofu. Leave those in the pan when adding the eggs.
-Use pork belly. The "bacon" here in the UK is too lean.|
+Use pork belly. The "bacon" here in the UK is too lean.|Use less of it though. The recipe was too greasy. Maybe use "smoked lardons"?

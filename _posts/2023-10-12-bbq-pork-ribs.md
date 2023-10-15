@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "BBQ Pork Ribs"
+categories: bbq
+---
 # BBQ Pork Ribs
 Classic fall-off the bone ribs. Savory, sweet, sticky BBQ sauce.
 
