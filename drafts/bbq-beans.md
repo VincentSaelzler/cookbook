@@ -1,6 +1,5 @@
 https://www.howsweeteats.com/2020/05/baked-beans/
 
-2 sliced bacon, diced
 1 small sweet onion, diced
 1 bell pepper, diced
 1 block frozen crushed garlic, cut in half
@@ -54,16 +53,4 @@ Combine all spices in a bowl and mix together.
 
 ## Bake
 Add beans and sauce to the containers.
-
-Cover with silicone cover and bake at 200 in fan mode for 20 minutes.
-
-
-
-
-## Next Time
-These were way too dry. It's going to take lots more time and lots more water.
-
-Use a recipie that specifically does dry beans. I found one called "boston baked beans"
-
-
 
