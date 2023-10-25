@@ -1,4 +1,8 @@
-# Easy Peasy Pork n' Beansy
+---
+layout: post
+title:  "Easy Peasy Pork n' Beansy"
+categories: comfort
+---
 BBQ pork and beans. What's challenging about this recipe? Patience.
 
 ## Ingredients
@@ -21,7 +25,7 @@ BBQ pork and beans. What's challenging about this recipe? Patience.
 
 ### Step 3
 🔪 1 medium diced onion  
-✅ 1kg crackling pork shoulder joint
+✅ 1kg boneless crackling pork shoulder joint
 
 ### Step 4
 🌡️ salt to taste (about 1 tbsp)
@@ -33,7 +37,7 @@ BBQ pork and beans. What's challenging about this recipe? Patience.
 
 Step|Elapsed|Directions|Observations
 -|-|-|-
-1|..|Cover pinto beans with water. Add veggie bullion. Boil for 20 minutes.
+1|..|Cover pinto beans with water. Add veggie bullion. Boil for **20 minutes**.
 2|5m|Make BBQ sauce. Combine wet sauces, then add dry spices, then mix.
 3|25m|Stir onion into boiled beans. Nestle pork into onion and bean mixture, fat side up. Pour BBQ sauce on top. Cover with lid. Place in 125c oven on 'fan' mode.
 4|2h30m|Stir BBQ sauce into bean mixture. Add salt to taste.
@@ -44,8 +48,8 @@ Step|Elapsed|Directions|Observations
 ### ➡️ ➡️ ➡️ Output: 2.5L
 
 ## Photos
-*Cover pinto beans with water*
+*Cover pinto beans with water*  
 ![](/assets/images/pork-beans-a.jpg)
 
-*Nestle pork into onion and bean mixture, fat side up.*
+*Nestle pork into onion and bean mixture, fat side up.*  
 ![](/assets/images/pork-beans-b.jpg)

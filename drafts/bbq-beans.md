@@ -36,7 +36,7 @@ These also freeze well!
 2 small sweet onion, diced
 
 ## Soak
-Dry pinto beans in water overnight. Drain them with a collander.
+Dry pinto beans in water overnight. Drain them with a colander.
 
 ## Render
 Bake the pork in the 1L containers until fat is mostly rendered.
