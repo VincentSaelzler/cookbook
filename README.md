@@ -2,25 +2,18 @@
 
 Recipes I've Tried
 
-# Development Environment
+## Development Environment
 Using the [Visual Studio Code Dev Containers Extension](https://code.visualstudio.com/docs/devcontainers/containers) to develop in a Docker container.
+
 ![](/docs/dev-containers-arch.png)
 Port forwarding seems to happen automatically once the Jekyll web server is running.
 
-Do **not** try and put all the Jekyll-related stuff in a folder (e.g. `website`) because the markdown image links in the vscode markdown previewer become incompatible with ones that work out the output files in `_site`.
+Do **not** try and put all the Jekyll-related stuff in a sub-folder of the repo (e.g. `website`) because the markdown image links in the vscode markdown previewer become incompatible with ones that work out the output files in `_site`.
 
-# Deployment
-TBD, but most likely steps will be:
-1. Ensure that `_site` folder is saved in git repo as part of dev process. The has the con of duplicating all the source files, but makes the requirements of the production server easier.
-1. Create a proxmox (not docker) container using ansible/proxmox with web server (e.g. nginx)
-1. Clone repo in container
+## Deployment to Production
+Use Ansible to create a container that has the Jekyll dependencies installed. Run an Ansible script that clones this repository and then runs the Jekyll commands to build the site and start a web server.
 
-OR....
-
-1. In the proxmox/ansible container install jekyll and 
-
-
-# Jekyll Dev Process
+## Jekyll Dev Process
 ```sh
 # this command only happens once.
 # it creates a boilerplate site in the /website directory
@@ -38,11 +31,11 @@ Run this command to start the server. Do ctrl-c then rerun to see changes.
 bundle exec jekyll serve
 ```
 
-# Resizing Photos
+## Resizing Photos
 - Create a directory called `big-pics` if it doesn't already exist.
 - Place full size photos here
 - Run `python3 photo-shrink.py`
 
-This command is idempotent.
+This command is idempotent. Also, it will never delete files.
 
 The `big-pics` directory is ignored in source control via `.gitignore` and also ignored when Jekyll builds the site via `_config.yml`
