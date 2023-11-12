@@ -23,10 +23,10 @@ title: Hearty Cooking
 description: >- # this means to ignore newlines until "baseurl:"
   Easy and nutritious recipes to meal prep.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://hearty.cooking" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://hearty.cooking" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username:  VincentSaelzler
-locale: en-us
+locale: en
 logo: /assets/images/hearty-logo.jpg
 
 # Build settings
