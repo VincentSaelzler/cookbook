@@ -4,44 +4,40 @@
 *Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
 
 🌡️ 1L water  
-✅ 1 28g vegetable pot  
+✅ 1x 28g vegetable bullion stock pot  
 ✅ 300g quinoa  
-✅ some of the tomato sauce
+✅ 1/2 of 500g jar tomato and herb bolognese sauce  
 
 ## Sautee
 *Remove the meat from the pan before adding the onion.*
 
-🔪 400g italian pork sausage   (480 non italian)
+🔪 400g pork sausage (ideally italian, but have used sainsbury's pork and red onion ones too)  
 ✅ olive oil  
 ✅ few pinches of salt  
-🔪 3 med diced red onion  
-✅ 2 cube (8 cloves) frozen crushed garlic
-
-
+🔪 2 med diced red onion  
+✅ 8 tsp (8 cloves) garlic paste
 
 ## Add Sauce and Quinoa
 *Re-add anything that was sauteed back to the pan. Add quinoa*
-+ basil20
-+ parsley1/2 box
-✅ 2 500g jars tomato and herb bolognese sauce  
+
+🔪 20g fresh thai basil (just get the big leaves)  
+✅ 25g frozen chopped parsley (1/2 box)  
+✅ 1.5 of 500g jars tomato and herb bolognese sauce  
 
 ## Combine
-✅ 500g ricotta cheese  
-🔪 1 cup grated Parmesan cheese  120m
-✅ 2 eggs  
+✅ 3x 250g continers ricotta cheese  
+✅ 120g grated Parmesan cheese  
+✅ 3 eggs  
 🌡️ 1 tablespoon dried Italian seasoning    
 🌡️ 1 teaspoon pepper
 
 ## Layer
 *Quinoa mix on bottom. Then ricotta mix. Then mozzerella*
 
-✅ 250g bag grated mozzarella  
+✅ 2x 250g bag grated mozzarella  
 
 ## Bake
 ⏱️ 20 minutes until cheese is browning.
 
 ## Output
-3 Liters
-
-## Next Time
-slightly more meat, 1kg ricotta
+Almost 4 Liters
