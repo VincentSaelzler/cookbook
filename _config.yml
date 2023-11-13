@@ -34,6 +34,11 @@ theme: jekyll-theme-so-simple
 plugins:
   - jekyll-feed
 
+# Site Author
+author:
+  name: Vincent Saelzler
+  picture: /assets/images/vince.jpg
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
