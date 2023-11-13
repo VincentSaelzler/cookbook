@@ -27,7 +27,7 @@ url: "https://hearty.cooking" # the base hostname & protocol for your site, e.g.
 # twitter_username: jekyllrb
 # github_username:  VincentSaelzler
 locale: en
-logo: /assets/images/hearty-logo.jpg
+logo: /assets/images/hearty-logo-transparent.png
 
 # Build settings
 theme: jekyll-theme-so-simple
