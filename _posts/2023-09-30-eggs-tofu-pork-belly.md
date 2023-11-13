@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Eggs with Tofu and Pork Belly"
-categories: breakfast
+title:  Eggs with Tofu and Pork Belly
+excerpt:  The pork belly adds some richness to the tofu.
+tags: breakfast
 ---
-
 ## Press Tofu
 ⏲️ 600g packed tofu (2x 300g packs)
 ![](/assets/images/eggs-tofu-bacon-aa.jpg)

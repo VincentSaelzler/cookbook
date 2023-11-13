@@ -1,7 +1,8 @@
 ---
 layout: post
-title:  "Saucy Bean-Baked Eggs"
-categories: breakfast
+title:  Saucy Bean-Baked Eggs
+excerpt: A different kind of egg breakfast.
+tags: breakfast
 ---
 # Saucy Bean-Baked Eggs
 Inspired by [Esther Clark from BBC Good Food](https://www.bbcgoodfood.com/recipes/saucy-bean-baked-eggs#commentsFeed)

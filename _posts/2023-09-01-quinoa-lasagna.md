@@ -1,5 +1,8 @@
-# Quinoa Lasagna
-
+---
+layout: post
+title:  Quinoa Lasagna
+excerpt: Rich rocotta and flavorful herbs.
+---
 ## Boil Quinoa
 *Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
 

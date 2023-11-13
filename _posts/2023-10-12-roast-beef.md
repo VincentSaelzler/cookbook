@@ -1,12 +1,9 @@
 ---
 layout: post
-title:  "Roast Beef"
-categories: meat
+title:  Roast Beef
+excerpt: Great for sandwiches.
+tags: meat
 ---
-
-# Roast Beef
-Great for sandwiches.
-
 # Secrets to Success
 Still working on it...
 

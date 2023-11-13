@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "BBQ Pork Ribs"
-categories: bbq
+title:  BBQ Pork Ribs
+excerpt: Classic fall-off the bone ribs. Savory, sweet, sticky BBQ sauce.
+tags: bbq meat
 ---
-# BBQ Pork Ribs
-Classic fall-off the bone ribs. Savory, sweet, sticky BBQ sauce.
-
 ## Inspiration
 
 [Courtney O'Dell from Sweet C's](https://sweetcsdesigns.com/the-best-smoked-pork-ribs-recipe-ever/) 

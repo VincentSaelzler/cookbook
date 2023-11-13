@@ -1,16 +1,14 @@
 ---
 layout: post
-title:  "Broiled Chicken Thighs"
-categories: meat
+title:  Broiled Chicken Thighs
+excerpt: In the UK, these might be called "grilled" chicken thighs.
+tags: meat
 ---
-
-# Broiled Chicken Thighs
-In the UK, these might be called "grilled" chicken thighs.
-
 # Marinate
 Oil with salt, pepper, garlic.
 
 # Bake
+
 Temperature|Universal Pan|Wire Rack|Door
 -|-|-|-
 Grill `II`|Second from Top|Low|Slightly Ajar

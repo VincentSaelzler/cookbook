@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Easy Peasy Pork n' Beansy"
-categories: comfort
+tags: comfort
+excerpt: BBQ pork and beans. What's challenging about this recipe? Patience.
 ---
 BBQ pork and beans. What's challenging about this recipe? Patience.
 

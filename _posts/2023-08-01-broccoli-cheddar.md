@@ -1,10 +1,9 @@
 ---
 layout: post
-title:  "Broccoli Cheddar Soup"
-#date:   2023-09-01
-categories: soup comfort
+title:  Broccoli Cheddar Soup
+excerpt: Think Panera, but better.
+tags: comfort soup
 ---
-# Broccoli Cheddar
 Think Panera, but better.
 
 ## Sauté

@@ -1,4 +1,8 @@
-# Mediterranean Couscous
+---
+layout: post
+title:  Mediterranean Couscous
+excerpt: Fresh and fantastic.
+---
 Fresh and fantastic.
 
 ## Sautee
