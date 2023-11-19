@@ -30,4 +30,4 @@ Drain the potatoes to a sieve. Mix and mash all ingredients in the pot.
 - maybe add some herbs
 
 ## Output
-Just over 1L
+➡️ Just over 1L
