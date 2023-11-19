@@ -28,6 +28,7 @@ Drain the potatoes to a sieve. Mix and mash all ingredients in the pot.
 ## Try next time
 - use less cream and butter next time
 - maybe add some herbs
+- use the whole 1.5kg bag to make about 2L
 
 ## Output
 ➡️ Just over 1L
