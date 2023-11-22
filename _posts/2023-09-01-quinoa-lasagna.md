@@ -44,3 +44,6 @@ excerpt: Rich rocotta and flavorful herbs.
 
 ## Output
 Almost 4 Liters
+
+## Next Time
+Add aubergine?
