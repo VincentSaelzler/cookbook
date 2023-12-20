@@ -2,7 +2,7 @@
 layout: post
 title:  Mashed Potatoes
 tags: starch
-excerpt: Simply boiled and mashed.
+excerpt: Simply boiled and mashed!
 ---
 Simply boiled and mashed.
 

@@ -1,5 +1,28 @@
-https://www.spendwithpennies.com/creamy-mushroom-sauce/
+---
+layout: post
+title:  Creamy Mushroom Sauce
+tags: sauce
+excerpt: Great on almost anything!
+---
+Great on almost anything!
 
+Inspired by [NAME at Spend with Pennies](https://www.spendwithpennies.com/creamy-mushroom-sauce/)
+
+## Ingredients
+
+🔪 1 small onion diced  
+✅ about 2 tablespoons butter  
+✅ 600g (2x 3000g packages) sliced white mushrooms  
+✅ 4 cloves worth of garlic paste  
+🔪 6 sprigs fresh thyme or 1/2 teaspoon dried thyme  
+🌡️? 200ml white wine  
+✅ 1 chicken bullion packet  
+🌡️? 300ml single cream  
+🥣 cornflour slurry as needed to thicken  
+🔪 3 tablespoons fresh parsley
+🌡️ salt and pepper to taste  
+
+## Instructions
 Saute onion in butter until softened, about 3-5 minutes.
 
 Add mushrooms, salt, and pepper. Cook until mushrooms have released juices. Add garlic and thyme and cook until fragrant, about 1 minute.
@@ -13,15 +36,3 @@ To thicken the sauce further, combine cornstarch with 2 tablespoons of water (or
 Let simmer 1 minute.
 
 Season with parsley, salt and pepper to taste
-
-1 small onion diced
-2 tablespoon butter
-600g (2 packages M&S) white mushrooms diced
-salt and ground pepper to taste
-4 cloves garlic minced
-6 sprigs fresh thyme or 1/2 teaspoon dried thyme
-200ml white wine
-using the whole chicken bullion packet (which is for 500ml)
-300ml single cream
-cornfour slurry as needed to thicken
-3 tablespoons fresh parsley

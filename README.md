@@ -3,39 +3,40 @@
 Recipes I've Tried
 
 ## Development Environment
-Using the [Visual Studio Code Dev Containers Extension](https://code.visualstudio.com/docs/devcontainers/containers) to develop in a Docker container.
 
 ![](/docs/dev-containers-arch.png)
+
+Prerequisites:
+- `ms-vscode-remote.remote-containers` to run the site inside of a container.
+- Docker Desktop to run the container.
+
+The `.devcontainer` folder contains the necessary configuration files.
+
+Once the configuration files are correct, run the project using the **Reopen in Container** command from the command palette.
+
+### Tips
+
 Port forwarding seems to happen automatically once the Jekyll web server is running.
 
 Do **not** try and put all the Jekyll-related stuff in a sub-folder of the repo (e.g. `website`) because the markdown image links in the vscode markdown previewer become incompatible with ones that work out the output files in `_site`.
 
-## Deployment to Production
-Use Ansible to create a container that has the Jekyll dependencies installed. Run an Ansible script that clones this repository and then runs the Jekyll commands to build the site and start a web server.
+## Local Development Site
 
-## Jekyll Dev Process
+Only run this command once, to create a brand new website.
 ```sh
-# this command only happens once.
-# it creates a boilerplate site in the /website directory
+# creates a boilerplate site in the /website directory
 # notably the Gemfile is created which itself contains good documentation
 jekyll new website
 ```
+
 When creating new containers, run this command each time. It cannot (easily) be part of the Dockerfile because the dev containers extension hasn't yet created the bind mount to the code repo, so the Gemfile doesn't exist in the container yet.
 ```sh
 bundle install
 # this warning can be safely ignored, because no other users are in the container
 # Don't run Bundler as root. Installing your bundle as root will break this application for all non-root users on this machine.
 ```
+
 Run this command to start the server. Do ctrl-c then rerun to see changes.
 ```sh
 bundle exec jekyll serve
 ```
-
-## Resizing Photos
-- Create a directory called `big-pics` if it doesn't already exist.
-- Place full size photos here
-- Run `python3 photo-shrink.py`
-
-This command is idempotent. Also, it will never delete files.
-
-The `big-pics` directory is ignored in source control via `.gitignore` and also ignored when Jekyll builds the site via `_config.yml`

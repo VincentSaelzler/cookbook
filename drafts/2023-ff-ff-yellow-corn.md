@@ -1,5 +1,11 @@
-# Creamy Corn Soup
-Simple.
+---
+layout: post
+title:  Yellow Corn Soup
+tags: soup
+excerpt: Southwestern.
+---
+Southwestern.
+
 ## Sautee
 ✅ Olive Oil  
 🔪 250g (1.5 Small) Diced Yellow Onion 
@@ -18,3 +24,5 @@ Simple.
 ## Season
 🔪 20g Chives  
 
+## Next Time
+Make it more southwest or something. It just tastes like corn.
