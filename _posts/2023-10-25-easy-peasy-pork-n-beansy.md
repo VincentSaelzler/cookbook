@@ -40,7 +40,7 @@ BBQ pork and beans. What's challenging about this recipe? Patience.
 
 Step|Elapsed|Directions|Observations
 -|-|-|-
-1|..|Cover pinto beans with water. Add veggie bullion. Boil for **20 minutes**.
+1|..|Cover pinto beans with water. Add veggie bullion and salt. Boil for **20 minutes**.
 2|5m|Make BBQ sauce. Combine wet sauces, then add dry spices, then mix.
 3|25m|Stir onion into boiled beans. Nestle pork into onion and bean mixture, fat side up. Pour BBQ sauce on top. Cover with lid. Place in 125c oven on 'fan' mode.
 4|2h30m|Stir BBQ sauce into bean mixture. Add salt to taste.
