@@ -11,6 +11,8 @@ BBQ pork and beans. What's challenging about this recipe? Patience.
 ✅ 500g dry pinto beans.  
 ✅ water to cover (about 3 cups)  
 ✅ veggie bullion pot  
+🌡️ 1.5 tsp salt
+
 ### Step 2
 *Dry spices: 4 x 1tbsp = 1/4 cup*  
 🌡️ 1 tbsp smoked paprika  
@@ -26,10 +28,10 @@ BBQ pork and beans. What's challenging about this recipe? Patience.
 
 ### Step 3
 🔪 1 medium diced onion  
-✅ 1kg boneless crackling pork shoulder joint
+✅ 900g boneless crackling pork shoulder joint
 
 ### Step 4
-🌡️ salt to taste (about 1 tbsp)
+🌡️ salt to taste (about 1.5 tsp)
 
 ### Step 6
 🔪 1 medium diced onion
