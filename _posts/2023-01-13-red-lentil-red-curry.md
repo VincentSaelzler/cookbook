@@ -2,6 +2,7 @@
 layout: post
 title:  Thai Red Lentil Red Curry
 excerpt: Simple, quick, and spicy.
+tags: thai
 ---
 Inspired by [Nisha at Rainbow Plant Life](https://rainbowplantlife.com/vegan-red-lentil-curry/)
 
