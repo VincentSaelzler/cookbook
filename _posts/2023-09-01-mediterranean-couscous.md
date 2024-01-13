@@ -29,6 +29,8 @@ Fresh and fantastic.
 ## Output
 ➡️ 4.5 Liters
 
+Freezing: Not ideal. The water separated out.
+
 ## Next Time
 Only use one 300g package of couscous.
 
