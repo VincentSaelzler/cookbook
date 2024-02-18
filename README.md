@@ -40,3 +40,14 @@ Run this command to start the server. Do ctrl-c then rerun to see changes.
 ```sh
 bundle exec jekyll serve
 ```
+
+## Deployment
+Push changes to the main branch of this git repository.
+
+Open the [onebox](https://github.com/VincentSaelzler/onebox]) repo in a separate dev container.
+
+Pull changes, and build the site.
+```sh
+cd ansible/
+ans 6.0-ct-cookbook.yml
+```
