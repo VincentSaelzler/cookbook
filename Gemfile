@@ -14,6 +14,11 @@ source "https://rubygems.org"
 # gem "jekyll", "~> 4.3.2"
 gem "jekyll", "~> 4.1.1"
 gem "jekyll-theme-so-simple"
+# 2024-02-18
+# https://github.com/jekyll/jekyll/issues/8523
+# needed to explicitly include this gem, otherwise 
+# `bundle exec jekyll serve` command failed
+gem "webrick"
 
 # generate an Atom (RSS-like) feed of your Jekyll posts
 group :jekyll_plugins do
