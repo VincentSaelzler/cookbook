@@ -4,4 +4,5 @@
 
 layout: home
 entries_layout: list
+posts_limit: 420
 ---
