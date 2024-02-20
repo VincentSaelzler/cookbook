@@ -6,7 +6,7 @@ excerpt: Great on almost anything!
 ---
 Great on almost anything!
 
-Inspired by [NAME at Spend with Pennies](https://www.spendwithpennies.com/creamy-mushroom-sauce/)
+Inspired by [Spend with Pennies](https://www.spendwithpennies.com/creamy-mushroom-sauce/)
 
 ## Ingredients
 
@@ -19,7 +19,7 @@ Inspired by [NAME at Spend with Pennies](https://www.spendwithpennies.com/creamy
 ✅ 1 chicken bullion packet  
 🌡️? 300ml single cream  
 🥣 cornflour slurry as needed to thicken  
-🔪 3 tablespoons fresh parsley
+🔪 3 tablespoons fresh parsley  
 🌡️ salt and pepper to taste  
 
 ## Instructions

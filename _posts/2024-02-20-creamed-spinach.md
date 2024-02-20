@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Turkey Terrine
-tags: meat side
+tags: side
 excerpt: Delectable.
 ---
 # Creamed Spinach
@@ -19,7 +19,7 @@ Hearty and cheesy.
 *Add everything and just bring to a simmer. Then, immediately move to next step.*
 
 🌡️ 500ml half-and-half  
-✅ 250g sliced white mushrooms
+✅ 250g sliced white mushrooms  
 ✅ 1 cube (4 cloves) frozen crushed garlic
 
 ## Simmer Again
@@ -31,7 +31,7 @@ Hearty and cheesy.
 ✅ 300g cream cheese aka "soft cheese".
 
 ## Stir
-✅ 60g Parmesan cheese , grated
+✅ 60g Parmesan cheese , grated  
 ✅ salt to taste  
 ✅ pepper to taste  
 

@@ -44,3 +44,4 @@ Not sure whether freezing is OK.
 # Next Time
 - Add bean sprouts
 - Add Green beans
+- Use a better brand of curry paste

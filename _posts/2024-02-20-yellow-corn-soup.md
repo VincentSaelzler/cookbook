@@ -2,7 +2,7 @@
 layout: post
 title:  Yellow Corn Soup
 tags: soup
-excerpt: Southwestern.
+excerpt:
 ---
 Southwestern.
 
@@ -26,3 +26,5 @@ Southwestern.
 
 ## Next Time
 Make it more southwest or something. It just tastes like corn.
+
+I think the cruise version was sweeter, and maybe southwestern?
