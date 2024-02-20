@@ -1,8 +1,10 @@
+# default
 _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
-big-pics/
 
+# custom
+big-pics/
 Gemfile.lock
