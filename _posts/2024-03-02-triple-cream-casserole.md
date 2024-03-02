@@ -7,8 +7,6 @@ excerpt: Chicken, Mushroom, and Asparagus.
 Easy to make.
 ## Ingredients
 
-🌡️🔪🥣⏲️✅➡️
-
 1kg chicken breast  
 750g (3x250g) asparagus  
 750g (3x250g) sliced mushrooms  
@@ -39,7 +37,15 @@ Keep about half of the crispy fried onions on top, and mix the other half in.
 🌡️ garlic granules  
 ✅ crispy fried onions 
 
+![](/assets/images/triple-cream-casserole.jpg)
+
 ## Bake
 Use the large pan/tray that came with the oven.
 
 ⏲️ 175c fan for 25m
+
+## Output
+3+ liters
+
+## Next Time
+❗❗❗ The sauce came out way too thin. The cans of soup aren't like condensed soup in the US. Need something to thicken it. ❗❗❗
