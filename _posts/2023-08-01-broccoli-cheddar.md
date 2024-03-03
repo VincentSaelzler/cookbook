@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Broccoli Cheddar Soup
 excerpt: Think Panera, but better.
 tags: comfort soup

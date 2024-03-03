@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Baked Ranch Chicken
 tags: meat
 excerpt: Juicy on the inside, crispy on the outside.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Quinoa Lasagna
 excerpt: Rich rocotta and flavorful herbs.
 ---

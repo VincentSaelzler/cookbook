@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Turkey Avocado Panini  
 tags: sandwich
 excerpt: A great blend of flavors

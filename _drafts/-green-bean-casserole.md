@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Green Bean Casserole
 tags: vegetable
 excerpt: A Thanksgiving classic.

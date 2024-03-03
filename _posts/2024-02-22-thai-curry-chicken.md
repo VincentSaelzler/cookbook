@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Thai Red Curry Chicken  
 tags: asian
 excerpt: Restaurant-quality Thai, but at home.

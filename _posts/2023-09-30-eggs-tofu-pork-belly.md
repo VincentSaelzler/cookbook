@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Eggs with Tofu and Pork Belly
 excerpt:  The pork belly adds some richness to the tofu.
 tags: breakfast

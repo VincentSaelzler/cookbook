@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Creamy Mushroom Sauce
 tags: sauce
 excerpt: Great on almost anything!

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Smoked Tomato Bisque
 tags: soup
 excerpt: Red and savory.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  BBQ Pork Ribs
 excerpt: Classic fall-off the bone ribs. Savory, sweet, sticky BBQ sauce.
 tags: bbq meat

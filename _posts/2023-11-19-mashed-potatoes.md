@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Mashed Potatoes
 tags: starch
 excerpt: Simply boiled and mashed!

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Homemade Ranch Dressing
 tags: sauce
 excerpt: There are some things you cannot buy.

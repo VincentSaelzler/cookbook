@@ -1,5 +1,4 @@
 source "https://rubygems.org"
-
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
@@ -11,16 +10,22 @@ source "https://rubygems.org"
 
 # 2024-02-10 ROLLED BACK JEKYLL VERSION TO FIX BUG
 # https://github.com/jekyll/jekyll/issues/9312
-# gem "jekyll", "~> 4.3.2"
+# gem "jekyll", "~> 4.3.3"
 gem "jekyll", "~> 4.1.1"
-gem "jekyll-theme-so-simple"
 # 2024-02-18
 # https://github.com/jekyll/jekyll/issues/8523
 # needed to explicitly include this gem, otherwise 
 # `bundle exec jekyll serve` command failed
 gem "webrick"
 
-# generate an Atom (RSS-like) feed of your Jekyll posts
+# This is the default theme for new Jekyll sites. You may change this to anything you like.
+# gem "minima", "~> 2.5"
+gem "minimal-mistakes-jekyll"
+
+# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
+# uncomment the line below. To upgrade, run `bundle update github-pages`.
+# gem "github-pages", group: :jekyll_plugins
+# If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
 end

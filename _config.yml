@@ -1,4 +1,5 @@
 title: Hearty Cooking
+subtitle: Easy and nutritious recipes to meal prep.
 description: Easy and nutritious recipes to meal prep.
 locale: en
 
@@ -12,8 +13,13 @@ exclude: # items are added to the internal "default list".
   - LICENSE.txt
   - README.md
 
-theme: jekyll-theme-so-simple
+theme: minimal-mistakes-jekyll
+date_format: "%-d %B, %Y"
+atom_feed:
+  hide: true
 
 author:
   name: Vincent Saelzler
-  picture: /assets/images/vince.jpg
+  avatar: /assets/images/vince.jpg
+  bio      : "Head Chef"
+  location : "London, UK"

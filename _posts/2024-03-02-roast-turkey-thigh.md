@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Roast Turkey Thigh
 tags: 
 excerpt: Bone-in Roasted

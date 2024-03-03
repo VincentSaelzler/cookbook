@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Keto Crutons
 tags: garnish
 excerpt: Cheese crisps.

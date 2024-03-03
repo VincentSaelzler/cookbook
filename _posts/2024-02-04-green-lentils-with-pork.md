@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Green Lentils with Pork"
 tags: comfort
 excerpt: Looks like puke.

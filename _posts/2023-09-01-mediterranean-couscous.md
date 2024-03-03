@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Mediterranean Couscous
 excerpt: Fresh and fantastic.
 ---

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Triple Cream Casserole
 tags: 
 excerpt: Chicken, Mushroom, and Asparagus.

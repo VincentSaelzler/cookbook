@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Thai Red Lentil Red Curry
 excerpt: Simple, quick, and spicy.
 tags: thai

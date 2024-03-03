@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: single
 title:  Yellow Corn Soup
 tags: soup
-excerpt:
+excerpt: "It's corn!"
 ---
 Southwestern.
 

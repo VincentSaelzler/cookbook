@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Broiled Chicken Thighs
 excerpt: In the UK, these might be called "grilled" chicken thighs.
 tags: meat

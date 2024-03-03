@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Saucy Bean-Baked Eggs
 excerpt: A different kind of egg breakfast.
 tags: breakfast

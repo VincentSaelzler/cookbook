@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  Roast Beef
 excerpt: Great for sandwiches.
 tags: meat
