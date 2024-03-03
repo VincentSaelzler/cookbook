@@ -16,7 +16,7 @@ Max Heat|Second from Top|High|Closed|5m|5m
 
 
 # Secrets to Success
-Turn the heat all the way up.
+Turn the heat all the way up!
 
 Don't let the drippings fall too close to the food itself, because it burns and causes a ton of smoke.
 
