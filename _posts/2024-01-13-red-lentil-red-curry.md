@@ -18,10 +18,9 @@ Use the 10L pot on large burner. Don't exceed medium heat.
 🔪 2/3 bunch of finely diced green onions  
 🌡️ 2 tbsp salt  
 🌡️ 4 tbsp tesco red thai curry paste  
-🌡️ 2 tbsp thai dragon sriracha chili mayo sauce  
 
 ## Add Vegetables and Legumes
-🌡️ 350ml split red lentils  
+🌡️ 350ml/320g split red lentils  
 🔪 350g **finely** diced bell peppers  
 
 ## Add Protein and Fat

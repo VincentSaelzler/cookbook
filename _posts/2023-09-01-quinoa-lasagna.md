@@ -9,7 +9,7 @@ excerpt: Rich rocotta and flavorful herbs.
 🌡️ 1L water  
 ✅ 1x 28g vegetable bullion stock pot  
 ✅ 300g quinoa  
-✅ 1/2 of 500g jar tomato and herb bolognese sauce  
+✅ 500g jar tomato and herb bolognese sauce  
 
 ## Sautee
 *Remove the meat from the pan before adding the onion.*
@@ -23,9 +23,10 @@ excerpt: Rich rocotta and flavorful herbs.
 ## Add Sauce and Quinoa
 *Re-add anything that was sauteed back to the pan. Add quinoa*
 
+✅ 2 of 400g tins chopped tomatoes  
+✅ VEGETABLES  
 🔪 20g fresh thai basil (just get the big leaves)  
 ✅ 25g frozen chopped parsley (1/2 box)  
-✅ 1.5 of 500g jars tomato and herb bolognese sauce  
 
 ## Combine
 ✅ 3x 250g continers ricotta cheese  
@@ -43,7 +44,7 @@ excerpt: Rich rocotta and flavorful herbs.
 ⏱️ 20 minutes until cheese is browning.
 
 ## Output
-Almost 4 Liters
+Almost 5 Liters
 
 ## Next Time
 Add aubergine?

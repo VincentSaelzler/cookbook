@@ -8,9 +8,9 @@ Red and savory.
 
 ## Ingredients
 ✅ 2 tablespoons olive oil  
-🔪 2 yellow onions (large)  
+🔪 3 medium yellow onions
 ✅ 2 frozen garlic blocks  
-✅ 7x (400g?) cartons chopped tomatoes with oregano and basil.   
+✅ 2730g (390g x 7) cartons chopped tomatoes with oregano and basil.   
 ✅ 1 (28g) vegetable stock bullion cup  
 🌡️ 1 cup water  
 🔪 Basil leaves 20g packet (stems removed and crappy leaves discarded)  
