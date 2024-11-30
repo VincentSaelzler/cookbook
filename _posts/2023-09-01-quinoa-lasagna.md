@@ -1,9 +1,11 @@
 ---
 layout: single
 title:  Quinoa Lasagna
-excerpt: Rich rocotta and flavorful herbs.
+excerpt: Quinoa Lasagna features layers of boiled quinoa, sautéed pork sausage with onions and garlic, mixed with tomato sauce, ricotta, parmesan, and mozzarella, resulting in a hearty and flavorful dish.
 ---
+
 ## Boil Quinoa
+
 *Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
 
 🌡️ 1L water  
@@ -12,6 +14,7 @@ excerpt: Rich rocotta and flavorful herbs.
 ✅ 500g jar tomato and herb bolognese sauce  
 
 ## Sautee
+
 *Remove the meat from the pan before adding the onion.*
 
 🔪 400g pork sausage (ideally italian, but have used sainsbury's pork and red onion ones too)  
@@ -21,30 +24,32 @@ excerpt: Rich rocotta and flavorful herbs.
 ✅ 8 tsp (8 cloves) garlic paste
 
 ## Add Sauce and Quinoa
+
 *Re-add anything that was sauteed back to the pan. Add quinoa*
 
-✅ 2 of 400g tins chopped tomatoes  
-✅ VEGETABLES  
-🔪 20g fresh thai basil (just get the big leaves)  
-✅ 25g frozen chopped parsley (1/2 box)  
+✅ 800g (2x 400g) tins chopped tomatoes  
+🔪 800g (2x 400g) Ready To Roast Mediterranean Style Vegetables  
+🔪 30g fresh basil (just get the big leaves)  
+🔪 30g chopped parsley (it's okay if some stems are chopped up)  
 
 ## Combine
-✅ 3x 250g continers ricotta cheese  
+
+✅ 750g (3x 250g) ricotta cheese  
 ✅ 120g grated Parmesan cheese  
 ✅ 3 eggs  
 🌡️ 1 tablespoon dried Italian seasoning    
 🌡️ 1 teaspoon pepper
 
 ## Layer
-*Quinoa mix on bottom. Then ricotta mix. Then mozzerella*
 
-✅ 2x 250g bag grated mozzarella  
+*Quinoa mix on bottom. Then ricotta mix. Then mozzarella*
+
+✅ 500g grated mozzarella  
 
 ## Bake
+
 ⏱️ 20 minutes until cheese is browning.
 
 ## Output
-Almost 5 Liters
 
-## Next Time
-Add aubergine?
+Almost 5 Liters
