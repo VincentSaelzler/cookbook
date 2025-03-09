@@ -10,26 +10,35 @@ excerpt: Hearty and tasty.
 ✅ salt to taste  
 ✅ pepper to taste  
 ✅ garlic powder to taste  
-✅ 250g cottage cheese
+✅ 900g (3x300g) cottage cheese
 
-Preheat oven to 180c fan.
+Preheat oven to **190c** fan. A bit hotter than normal 180.
 
-Line glass oven tray with baking paper.
+Line **metal** oven tray with baking paper.
 
-Mix cheese with seasonings, then make 5in diameter blob in middle of tray.
+![](/assets/images/metal-baking-tray.jpg)
+
+Mix cottage cheese with seasonings, then spread evenly over the tray.
 
 Bake until water separates, about 20m.
 
 ## Bake More
 
-🔪 5 (75g) cherry tomatoes.  
+🔪 325g baby plum tomatoes
 
-Top with tomatoes. Bake until water evaporates, and cheese is golden brown.
+Chop tomatoes in half. Top with tomatoes. Bake until water evaporates, and cheese is golden brown.
+
+time|status
+-|-
+10m|still a ton of liquid
+20m|still a good bit of liquid
+30m|has extra water, but much reduced. doesn't slosh around anymore when shaken.
+40m|thought it was done because no more water. should have waited longer.
 
 ## Top with Protien
 
-🥣 3 eggs  
-🔪 75g ham
+🥣 12 eggs  
+🔪 120g ham
 
 Try and time it so eggs finish at the same time as the cottage cheese.
 
