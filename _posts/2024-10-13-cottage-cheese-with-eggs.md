@@ -35,7 +35,7 @@ time|status
 30m|has extra water, but much reduced. doesn't slosh around anymore when shaken.
 40m|thought it was done because no more water. should have waited longer.
 
-## Top with Protien
+## Top with Protein
 
 🥣 12 eggs  
 🔪 120g ham
