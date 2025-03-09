@@ -53,6 +53,4 @@ Remove cheese from oven and put eggs on top.
 
 ## Output
 
-0.5 liters (perfect for square glass Ikea container)
-
-It's about 1 very large or 2 pretty small servings.
+1.8 liters (3x .06 liter glass tupperware)
