@@ -9,7 +9,7 @@ Inspired by [Nisha at Rainbow Plant Life](https://rainbowplantlife.com/vegan-red
 ## Put Liquid and Seasoning in the Pot
 Use the 10L pot on large burner. Don't exceed medium heat.
 
-🌡️ 300ml water  
+🌡️ 1200ml water  
 🌡️ 2 tbsp oil (to avoid lentils sticking to bottom of pot)  
 ✅ 1 28g veggie pot  
 ✅ 2x 400g can crushed tomatoes  
