@@ -17,7 +17,7 @@ Use the 10L pot on large burner. Don't exceed medium heat.
 🌡️ 1 tsp pepper  
 🔪 2/3 bunch of finely diced green onions  
 🌡️ 2 tbsp salt  
-🌡️ 4 tbsp tesco red thai curry paste  
+🌡️ 4 tbsp Mae Ploy brand red curry paste  
 
 ## Add Vegetables and Legumes
 🌡️ 350ml/320g split red lentils  
