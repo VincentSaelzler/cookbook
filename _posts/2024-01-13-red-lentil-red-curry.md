@@ -16,21 +16,22 @@ Use the 10L pot on large burner. Don't exceed medium heat.
 🌡️ 1 tsp garlic powder  
 🌡️ 1 tsp pepper  
 🔪 2/3 bunch of finely diced green onions  
-🌡️ 2 tbsp salt  
+🌡️ 1 tbsp salt  
 🌡️ 4 tbsp Mae Ploy brand red curry paste  
 
-## Add Vegetables and Legumes
-🌡️ 350ml/320g split red lentils  
-🔪 350g **finely** diced bell peppers  
+## Add Legumes
+🌡️ 350g split red lentils  
 
-## Add Protein and Fat
-🔪 300g diced chicken breast  
+## Add Protein and Fat and Vegetables
+🔪 600g (3x300g) Sainsbury's SO Organic Super Firm Tofu ⚠️ Marinated in Soy and Siracha Overnight  
+✅ 500g Frozen sliced peppers  
+✅ 200g Frozen green beans
+✅ 300g bean sprouts
 ✅ 400 mL can full-fat coconut milk  
 
 ## Season to Taste
 ✅ salt  
-✅ tesco red thai curry paste  
-✅ thai dragon sriracha chili mayo sauce  
+✅ Mae Ploy brand red curry paste  
 
 ## Storage and Serving
 
@@ -39,8 +40,3 @@ Serve with chopped basil.
 ### ➡️ ➡️ ➡️ Output: 3-3.5L
 
 Not sure whether freezing is OK.
-
-# Next Time
-- Add bean sprouts
-- Add Green beans
-- Use a better brand of curry paste
