@@ -25,8 +25,8 @@ Use the 10L pot on large burner. Don't exceed medium heat.
 ## Add Protein and Fat and Vegetables
 🔪 600g (3x300g) Sainsbury's SO Organic Super Firm Tofu ⚠️ Marinated in Soy and Siracha Overnight  
 ✅ 500g Frozen sliced peppers  
-✅ 200g Frozen green beans
-✅ 300g bean sprouts
+✅ 200g Frozen green beans  
+✅ 300g bean sprouts  
 ✅ 400 mL can full-fat coconut milk  
 
 ## Season to Taste
