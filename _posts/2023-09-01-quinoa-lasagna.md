@@ -6,7 +6,7 @@ excerpt: Quinoa Lasagna features layers of boiled quinoa, sautéed pork sausage 
 
 ## Boil Quinoa
 
-*Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
+*Small pot with glass lid. Bring to boil. Simmer for 20 minutes covered. Remove from heat and let sit. There shouldn't be any excess water to drain. Add some tomato sauce once it's done*
 
 🌡️ 1L water  
 ✅ 1x 28g vegetable bullion stock pot  
@@ -15,8 +15,9 @@ excerpt: Quinoa Lasagna features layers of boiled quinoa, sautéed pork sausage 
 
 ## Sautee
 
-*Remove the meat from the pan before adding the onion.*
+*Use the really big pot. Remove the meat from the pan before adding the onion.*
 
+🔪 100g italian beechwood smoked diced pancetta  
 🔪 400g pork sausage (ideally italian, but have used sainsbury's pork and red onion ones too)  
 ✅ olive oil  
 ✅ few pinches of salt  
