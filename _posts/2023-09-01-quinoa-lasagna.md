@@ -15,7 +15,7 @@ excerpt: Quinoa Lasagna features layers of boiled quinoa, sautéed pork sausage 
 
 ## Sautee
 
-*Use the really big pot. Remove the meat from the pan before adding the onion.*
+*Use the really big pot.*
 
 🔪 100g italian beechwood smoked diced pancetta  
 🔪 400g pork sausage (ideally italian, but have used sainsbury's pork and red onion ones too)  
@@ -24,12 +24,12 @@ excerpt: Quinoa Lasagna features layers of boiled quinoa, sautéed pork sausage 
 🔪 2 med diced red onion  
 ✅ 8 tsp (8 cloves) garlic paste
 
-## Add Sauce and Quinoa
+## Add Sauce and Veggies
 
-*Re-add anything that was sauteed back to the pan. Add quinoa*
+*Let everything simmer until veggies start to soften, 20m. Mix the quinoa in at the VERY END* 
 
 ✅ 800g (2x 400g) tins chopped tomatoes  
-🔪 800g (2x 400g) Ready To Roast Mediterranean Style Vegetables  
+🔪 800g (2x 400g) Ready To Roast Mediterranean Style Vegetables (chop small using chopper)  
 🔪 30g fresh basil (just get the big leaves)  
 🔪 30g chopped parsley (it's okay if some stems are chopped up)  
 
