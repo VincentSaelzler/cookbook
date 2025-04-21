@@ -9,10 +9,9 @@ excerpt: Hearty and tasty.
 
 ✅ salt to taste  
 ✅ pepper to taste  
-✅ garlic powder to taste  
 ✅ 900g (3x300g) cottage cheese
 
-Preheat oven to **190c** fan. A bit hotter than normal 180.
+Preheat oven to **200c** fan. A bit hotter than normal 180.
 
 Line **metal** oven tray with baking paper.
 
