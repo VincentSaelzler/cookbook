@@ -1,25 +1,24 @@
 ---
 layout: single
-title: Cauliflower Mashed Potatoes
-excerpt: Mix of cauliflower and potato.
+title: cauliflower mashed potatoes
+excerpt: mix of cauliflower and potato
 ---
 
-1800g (2x900g) frozen cauliflower.
+## large pot: start with cold water, add potatoes, boil 15 minutes
 
-1kg maris piper potatoes, roughly diced
+- 1/3 pot water
+- 2 tbsp salt
+- 4 lb russet potatoes, quartered or cut to 6 pieces for large ones
 
-300ml milk
+## large pot: boil additional ?? minutes
 
-100ml butter
+- 3.5 lb (10oz x 4) frozen cauliflower florets
 
-boil cauliflower in very salty water. 10 min until tender.
+## run through collander: return to large pot
 
-drain in colander.
-
-boil potatoes in salty water. 35 minutes until tender.
-
-drain potatoes in colander.
-
-put butter and milk in the pot and back on the burner. mix in potatoes and cauliflower and blend with immersion blender.
-
-salt and pepper to taste.
+- 1/2 cup (1 stick) butter
+- 1 cup milk
+- ?? salt
+- ?? pepper
+- ?? garlic powder
+- 5g (1/2 container) lightly dried parsley
